@@ -2,9 +2,9 @@
 
 [Meetup](https://www.meetup.com/omaha-elixir-mixer/)
 
-<!-- Discord -->
+[YouTube](https://www.youtube.com/@omahaelixirmixer)
 
-<!-- YouTube -->
+<!-- Discord -->
 
 ## Events
 |Date|Event|Recording|Slide Deck|Code Repo|
